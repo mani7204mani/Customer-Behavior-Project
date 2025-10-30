@@ -8,7 +8,9 @@ The goal is to uncover insights into spending patterns, product preferences, cus
 
 subscription behavior to support data-driven business decisions.
 
-The analysis includes data preparation and EDA in Python, business analysis through PostgreSQL SQL queries, and an interactive Power BI dashboard to present insights visually.
+The analysis includes data preparation and EDA in Python, business analysis through PostgreSQL SQL queries, and an interactive Power BI 
+
+dashboard to present insights visually.
 
 📁 Dataset Summary
 
