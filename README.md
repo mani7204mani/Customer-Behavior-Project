@@ -11,6 +11,7 @@ The analysis includes data preparation and EDA in Python, business analysis thro
 📁 Dataset Summary
 
 Rows: 3,900
+
 Columns: 18
 
 Key Features:
@@ -97,6 +98,7 @@ Filters: Age group, category, subscription status, and season.
 KPIs Displayed: Total revenue, average rating, discount usage, and top-performing products.
 
 💡 Business Recommendations
+
 Boost Subscriptions: Promote exclusive subscriber benefits.
 
 Customer Loyalty Programs: Encourage repeat buyers through rewards.
@@ -146,7 +148,10 @@ Screenshots available in dashboard/ folder
 
 👨‍💻 Author
 P .Mani Shankar
+
 Innovative Software Developer | Aspiring Data Engineer
+
 📧 mani7204mani@gmail.com
+
 🔗 LinkedIn | GitHub
 
