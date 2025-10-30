@@ -1,23 +1,32 @@
 🛒 Customer Shopping Behavior Analysis
+
 🧩 Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, product preferences, customer segmentation, and subscription behavior to support data-driven business decisions.
 The analysis includes data preparation and EDA in Python, business analysis through PostgreSQL SQL queries, and an interactive Power BI dashboard to present insights visually.
 
 📁 Dataset Summary
+
 Rows: 3,900
 Columns: 18
 
 Key Features:
+
 Customer Demographics: Age, Gender, Location, Subscription Status
+
 Purchase Details: Item Purchased, Category, Purchase Amount, Season, Size, Color
+
 Shopping Behavior: Discount Applied, Promo Code Used, Previous Purchases, Purchase Frequency, Review Rating, Shipping Type
+
 Missing Data: 37 values in the Review Rating column
 
 🛠️ Tools & Technologies
 Programming Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Database: PostgreSQL
+
 Visualization Tool: Power BI
+
 Environment: Jupyter Notebook 
 
 Key Libraries:
