@@ -112,7 +112,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/customer-shopping-analysis.git](https://github.com/mani7204mani/Customer-Behavior-Project/)
+git clone [[https://github.com/yourusername/customer-shopping-analysis.git](https://github.com/mani7204mani/Customer-Behavior-Project/)](https://github.com/mani7204mani/Customer-Behavior-Project.git)
 cd Customer-Behavior-Project
 Install dependencies:
 
