@@ -1,5 +1,9 @@
 🛒 Customer Shopping Behavior Analysis
 
+**Interactive DashBoard of Customer Shopping Sales**
+<img width="1463" height="757" alt="image" src="https://github.com/user-attachments/assets/0da74a27-a775-4c32-907f-8351f6e0fd6e" />
+
+
 🧩 Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. 
