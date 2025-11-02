@@ -116,15 +116,18 @@ Targeted Marketing: Focus campaigns on high-revenue age groups and express-shipp
 ▶️ How to Run
 Clone the repository:
 
-bash
-Copy code
-git clone [[https://github.com/yourusername/customer-shopping-analysis.git](https://github.com/mani7204mani/Customer-Behavior-Project/)](https://github.com/mani7204mani/Customer-Behavior-Project.git)
-cd Customer-Behavior-Project
+```bash
+git clone https://github.com/YOUR_USERNAME/tourist-management-system.git
+cd tourist-management-system
+```
+
+
 Install dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
+
 Set up PostgreSQL:
 
 Create a database (e.g., customer_behaviour)
@@ -133,11 +136,11 @@ Update credentials in the Python script or notebook.
 
 Run the analysis:
 
-bash
-Copy code
+
+```bash
 jupyter notebook
 Execute cells step by step to perform data cleaning, EDA, and SQL queries.
-
+```
 View Dashboard:
 
 Open Customer Behavior Dashboard.pbix in Power BI to explore visual insights.
